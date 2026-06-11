@@ -1,6 +1,6 @@
 ## Hi , I'm Nithya
 
-🎓 Ccomputer science student at woxsen university 
+🎓 Computer science student at woxsen university 
 🤖 Interested in Artificial Intelligence, Machine Learning, and Data Science.
 💻 Skilled in Python, Java, and GUI application development.
 🩺 Developed MelanoNet, an AI-powered skin cancer detection system.
